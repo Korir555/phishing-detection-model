@@ -4,12 +4,12 @@ Machine learning-powered email phishing classifier using ensemble models, NLP fe
 
 ## Features
 
-- **Ensemble Models**: Random Forest + SVM + Neural Network voting
-- **Email Analysis**: Header validation (SPF, DKIM, DMARC), sender reputation
-- **NLP Processing**: TF-IDF, word embeddings, urgency pattern detection
-- **URL Analysis**: Domain reputation, homoglyph detection, age scoring
-- **Active Learning**: Analyst feedback for continuous model improvement
-- **Confidence Scoring**: Per-email confidence with explainability
+- Ensemble Models: Random Forest + SVM + Neural Network voting
+- Email Analysis: Header validation (SPF, DKIM, DMARC), sender reputation
+- NLP Processing: TF-IDF, word embeddings, urgency pattern detection
+- URL Analysis: Domain reputation, homoglyph detection, age scoring
+- Active Learning: Analyst feedback for continuous model improvement
+- Confidence Scoring: Per-email confidence with explainability
 
 ## Quick Start
 
@@ -43,7 +43,7 @@ scikit-learn | TensorFlow | Pandas | NLTK | spaCy | URL Reputation APIs
 
 ## Documentation
 
-Full model architecture and training guide: [Case Study](https://korir555.github.io/cybersecurity-portfolio/projects/08-phishing-detection-model/)
+Full model architecture and training guide: Case Study
 
 ## License
 
